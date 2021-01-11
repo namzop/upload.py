@@ -94,7 +94,7 @@ class starfiles():
 
 
     def url_file(self):
-        dwnld = f"https://starfiles.ml/file/{dwnld_star}"
+        dwnld = f"https://starfiles.co/file/{dwnld_star}"
         return dwnld
 
     def url_file_direct(self):
